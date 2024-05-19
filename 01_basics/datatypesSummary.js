@@ -41,5 +41,9 @@ console.log(userName);
 console.log(userName2);
 
 let myObj={
-    firstName = 
+    firstName : "Prateek",
+    id:"29"
 }
+let myObj2=myObj;
+ myObj2.id="68";
+ console.log(myObj.id);
