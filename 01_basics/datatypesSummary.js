@@ -28,3 +28,18 @@ myData.name="Kumar";
 console.log(myData.age);
 console.log(myData.name);
 console.log(updatedData);
+
+// Stack Memory -- Primitive Data Type
+
+//Heap Memory-- Non-Primitive (Reference Data Type)
+
+let userName = "TechWithPrince";
+let userName2=userName;
+
+userName="Technical Prince";
+console.log(userName);
+console.log(userName2);
+
+let myObj={
+    firstName = 
+}
